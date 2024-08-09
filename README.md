@@ -3,7 +3,7 @@
 
 Hobbies:
 <ul>
-  <li>Learning about new programming stuff every day.</li>
+  <li>Learning new programming content.</li>
   <li>Listening to Music.</li>
   <li>Aviation enthusiast.</li>
 </ul>
