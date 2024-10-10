@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @andrecfoss
-- Currently a Computer Science Student!
+- Currently a Computer Science Master Student!
 
 Hobbies:
 <ul>
